@@ -1,0 +1,7 @@
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.exe.config
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.pdb
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.pdb
