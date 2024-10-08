@@ -1,0 +1,7 @@
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Student Daily Report Assignment\Student Daily Report Assignment\bin\Debug\Student Daily Report Assignment.exe.config
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Student Daily Report Assignment\Student Daily Report Assignment\bin\Debug\Student Daily Report Assignment.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Student Daily Report Assignment\Student Daily Report Assignment\bin\Debug\Student Daily Report Assignment.pdb
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Student Daily Report Assignment\Student Daily Report Assignment\obj\Debug\Student Daily Report Assignment.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Student Daily Report Assignment\Student Daily Report Assignment\obj\Debug\Student Daily Report Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Student Daily Report Assignment\Student Daily Report Assignment\obj\Debug\Student Daily Report Assignment.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Student Daily Report Assignment\Student Daily Report Assignment\obj\Debug\Student Daily Report Assignment.pdb
