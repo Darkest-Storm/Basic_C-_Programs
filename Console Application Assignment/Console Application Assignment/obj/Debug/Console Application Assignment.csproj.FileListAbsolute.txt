@@ -1,0 +1,7 @@
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Console Application Assignment\Console Application Assignment\bin\Debug\Console Application Assignment.exe.config
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Console Application Assignment\Console Application Assignment\bin\Debug\Console Application Assignment.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Console Application Assignment\Console Application Assignment\bin\Debug\Console Application Assignment.pdb
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Console Application Assignment\Console Application Assignment\obj\Debug\Console Application Assignment.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Console Application Assignment\Console Application Assignment\obj\Debug\Console Application Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Console Application Assignment\Console Application Assignment\obj\Debug\Console Application Assignment.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\Console Application Assignment\Console Application Assignment\obj\Debug\Console Application Assignment.pdb
