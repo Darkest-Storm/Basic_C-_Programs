@@ -1,0 +1,7 @@
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\PriceQuoteApp\PriceQuoteApp\bin\Debug\PriceQuoteApp.exe.config
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\PriceQuoteApp\PriceQuoteApp\bin\Debug\PriceQuoteApp.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\PriceQuoteApp\PriceQuoteApp\bin\Debug\PriceQuoteApp.pdb
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\PriceQuoteApp\PriceQuoteApp\obj\Debug\PriceQuoteApp.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\PriceQuoteApp\PriceQuoteApp\obj\Debug\PriceQuoteApp.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\PriceQuoteApp\PriceQuoteApp\obj\Debug\PriceQuoteApp.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1\Basic_C#_Programs\PriceQuoteApp\PriceQuoteApp\obj\Debug\PriceQuoteApp.pdb
