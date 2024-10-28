@@ -1,0 +1,7 @@
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1 non repo\Do-While-ConsoleApp-Assignment\Do-While-ConsoleApp-Assignment\bin\Debug\Do-While-ConsoleApp-Assignment.exe.config
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1 non repo\Do-While-ConsoleApp-Assignment\Do-While-ConsoleApp-Assignment\bin\Debug\Do-While-ConsoleApp-Assignment.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1 non repo\Do-While-ConsoleApp-Assignment\Do-While-ConsoleApp-Assignment\bin\Debug\Do-While-ConsoleApp-Assignment.pdb
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1 non repo\Do-While-ConsoleApp-Assignment\Do-While-ConsoleApp-Assignment\obj\Debug\Do-While-ConsoleApp-Assignment.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1 non repo\Do-While-ConsoleApp-Assignment\Do-While-ConsoleApp-Assignment\obj\Debug\Do-While-ConsoleApp-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1 non repo\Do-While-ConsoleApp-Assignment\Do-While-ConsoleApp-Assignment\obj\Debug\Do-While-ConsoleApp-Assignment.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework - Part 1 non repo\Do-While-ConsoleApp-Assignment\Do-While-ConsoleApp-Assignment\obj\Debug\Do-While-ConsoleApp-Assignment.pdb
