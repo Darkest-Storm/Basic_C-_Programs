@@ -1,0 +1,7 @@
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Strings and Integers Assignment\Strings and Integers Assignment\bin\Debug\Strings and Integers Assignment.exe.config
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Strings and Integers Assignment\Strings and Integers Assignment\bin\Debug\Strings and Integers Assignment.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Strings and Integers Assignment\Strings and Integers Assignment\bin\Debug\Strings and Integers Assignment.pdb
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Strings and Integers Assignment\Strings and Integers Assignment\obj\Debug\Strings and Integers Assignment.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Strings and Integers Assignment\Strings and Integers Assignment\obj\Debug\Strings and Integers Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Strings and Integers Assignment\Strings and Integers Assignment\obj\Debug\Strings and Integers Assignment.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Strings and Integers Assignment\Strings and Integers Assignment\obj\Debug\Strings and Integers Assignment.pdb
