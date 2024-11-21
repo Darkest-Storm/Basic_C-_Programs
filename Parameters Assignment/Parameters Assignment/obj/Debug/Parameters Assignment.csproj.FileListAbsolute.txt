@@ -1,0 +1,7 @@
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.exe.config
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.pdb
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.pdb
