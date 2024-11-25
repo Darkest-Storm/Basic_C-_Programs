@@ -1,0 +1,7 @@
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework non repo\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework non repo\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework non repo\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework non repo\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework non repo\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework non repo\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework non repo\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
