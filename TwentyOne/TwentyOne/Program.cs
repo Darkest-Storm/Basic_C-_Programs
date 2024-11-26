@@ -11,6 +11,11 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            DateTime yearOfBirth = new DateTime(1992, 04, 14, 9, 23, 45);
+            DateTime yearOfGrad = new DateTime(2010, 6, 12, 14, 30, 45);
+
+            TimeSpan ageAtGrad = yearOfGrad - yearOfBirth;
+
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
