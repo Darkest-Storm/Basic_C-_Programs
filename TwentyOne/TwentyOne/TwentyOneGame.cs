@@ -46,7 +46,7 @@ namespace TwentyOne
                         if (blackJack)
                         {
                             Console.WriteLine("Blackjack! {0} wins {1}", player.Name, Bets[player]);
-                            player.Balance = +Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);
+                            player.Balance += Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);
                             return;
                         }
                     }
@@ -74,7 +74,7 @@ namespace TwentyOne
                     Console.WriteLine("Your cards are: ");
                     foreach(Card card in player.Hand)
                     {
-                        Console.WriteLine("{0} ", card.ToString());
+                        Console.Write("{0} ", card.ToString());
                     }
                     Console.WriteLine("\n\nHit or stay?");
                     string answer = Console.ReadLine().ToLower();
@@ -96,14 +96,15 @@ namespace TwentyOne
                         answer = Console.ReadLine().ToLower();
                         if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
                         {
-                            player.isActivelyPlaying = true;   
+                            player.isActivelyPlaying = true;
+                            return;
                         }
                         else
                         {
                             player.isActivelyPlaying = false;
+                            return;
                         }
-                    }
-                    return;
+                    }                   
                 }
             }
             Dealer.isBusted = TwentyOneRules.IsBusted(Dealer.Hand);
@@ -129,6 +130,7 @@ namespace TwentyOne
                     Dealer.Balance -= entry.Value;
                 }
                 return;
+                
             }
             foreach (Player player in Players)
             {
@@ -154,12 +156,10 @@ namespace TwentyOne
                 if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
                 {
                     player.isActivelyPlaying = true;
-                    return;
                 }
                 else
                 {
                     player.isActivelyPlaying = false;
-                    return;
                 }
             }
             
