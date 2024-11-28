@@ -12,3 +12,6 @@ C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Twenty
 C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
