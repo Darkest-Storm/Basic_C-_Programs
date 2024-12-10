@@ -3,4 +3,3 @@ C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\Twenty
 C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.dll
 C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.pdb
-C:\Users\Kevin\Desktop\AOL Folder\C# and .NET Framework\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
