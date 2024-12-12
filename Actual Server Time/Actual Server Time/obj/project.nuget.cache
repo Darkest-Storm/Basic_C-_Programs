@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvunZEeMoDXNZy3nQLp+Rem+1ml3hj0X7VGvSJYbg1ucMWJfm0INVxIQydsH2DN3dQdPhMQHM5KOpjmTC3kiZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kevin\\Desktop\\AOL Folder\\C# and .NET Framework\\Basic_C#_Programs\\Actual Server Time\\Actual Server Time\\Actual Server Time.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

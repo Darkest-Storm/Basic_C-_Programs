@@ -1,0 +1,10 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center md-5">
+    <h2 class="display-4">The Server Time is:</h2>
+    <p id="Time" class="font-weight-bolder">@(DateTime.Now);</p>
+</div>
